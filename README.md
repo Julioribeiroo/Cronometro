@@ -8,7 +8,7 @@ Vídeo demonstrando o funcionamento do cronômetro:
 
 Cronômetro em Python — Demonstração
 
-https://github.com/Julioribeiroo/Cronometro/issues/1#issue-5176644397
+[https://github.com/Julioribeiroo/Cronometro/issues/1#issue-5176644397](https://github.com/user-attachments/assets/db8e4f81-2cf9-4625-9564-4731a7a2b4b1)
 
 ✨ Funcionalidades
 ▶️ Iniciar e pausar a contagem
