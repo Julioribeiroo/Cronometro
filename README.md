@@ -1,32 +1,58 @@
-# Cronômetro em Python
+Cronômetro em Python
 
-Um cronômetro simples escrito em Python puro (sem dependências externas).
-O projeto tem duas versões:
+Um cronômetro desenvolvido em Python puro, utilizando apenas bibliotecas da biblioteca padrão do Python. O projeto possui duas versões: uma interface gráfica com Tkinter e uma versão executada diretamente pelo terminal.
 
-- **`cronometro_gui.py`** — versão com janela gráfica (tkinter). Basta dar duplo clique ou rodar com `python cronometro_gui.py` para abrir o app.
-- **`cronometro.py`** — versão de terminal (linha de comando).
+🖥️ Demonstração
 
-## Funcionalidades
-- Iniciar / pausar a contagem
-- Marcar voltas (laps)
-- Zerar o cronômetro
-- Histórico de voltas visível na tela
+Vídeo demonstrando o funcionamento do cronômetro:
 
-## Como usar
+Cronômetro em Python — Demonstração
 
-Versão gráfica (recomendada):
-```bash
+✨ Funcionalidades
+▶️ Iniciar e pausar a contagem
+🔄 Retomar a contagem
+🏁 Marcar voltas (laps)
+🗑️ Zerar o cronômetro
+📋 Visualizar o histórico de voltas
+🖥️ Interface gráfica com Tkinter
+💻 Versão para terminal
+📂 Versões
+Interface gráfica
+
+cronometro_gui.py
+
+Versão com interface gráfica desenvolvida utilizando Tkinter.
+
+Para executar:
+
 python cronometro_gui.py
-```
 
-Versão de terminal:
-```bash
+Também é possível executar o arquivo diretamente com duplo clique, dependendo da configuração do sistema.
+
+Terminal
+
+cronometro.py
+
+Versão executada diretamente pelo terminal.
+
 python cronometro.py
-```
-Durante a execução no terminal: `ENTER` marca volta, `p` pausa/retoma, `q` encerra.
 
-## Requisitos
-- Python 3.8 ou superior (usa apenas a biblioteca padrão — `tkinter` já vem incluso na maioria das instalações do Python)
+Durante a execução:
 
-## Licença
-Todos os direitos reservados. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+ENTER → marcar volta
+P → pausar/retomar
+Q → encerrar
+🛠️ Tecnologias
+Python 3.8+
+Tkinter
+Biblioteca padrão do Python
+Programação orientada a eventos
+📋 Requisitos
+Python 3.8 ou superior
+Não são necessárias dependências externas.
+
+O projeto utiliza apenas recursos da biblioteca padrão do Python.
+
+🚀 Objetivo
+
+Projeto desenvolvido com o objetivo de praticar conceitos de Python, interfaces gráficas, controle de tempo, eventos e interação com o usuário.
