@@ -1,60 +1,45 @@
-Cronômetro em Python
+# ⏱️ Cronômetro em Python
 
-Um cronômetro desenvolvido em Python puro, utilizando apenas bibliotecas da biblioteca padrão do Python. O projeto possui duas versões: uma interface gráfica com Tkinter e uma versão executada diretamente pelo terminal.
+<div align="center">
 
-🖥️ Demonstração
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Interface-Tkinter-green?style=for-the-badge)
+![Standard Library](https://img.shields.io/badge/Dependências-Apenas%20biblioteca%20padrão-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/Licença-MIT-yellow?style=for-the-badge)
 
-Vídeo demonstrando o funcionamento do cronômetro:
+**Um cronômetro moderno e completo feito 100% em Python puro**  
+Sem dependências externas • Interface gráfica + versão terminal
 
-Cronômetro em Python — Demonstração
+</div>
+
+---
+
+## ✨ Sobre o Projeto
+
+Este cronômetro foi desenvolvido utilizando **apenas a biblioteca padrão do Python**.  
+O projeto conta com **duas versões**:
+
+- 🖥️ **Interface Gráfica** (Tkinter) — visual moderna e intuitiva
+- 💻 **Versão Terminal** — leve e rápida, ideal para quem gosta de CLI
+
+---
+
+## 🎥 Demonstração
 
 [https://github.com/Julioribeiroo/Cronometro/issues/1#issue-5176644397](https://github.com/user-attachments/assets/db8e4f81-2cf9-4625-9564-4731a7a2b4b1)
 
-✨ Funcionalidades
-▶️ Iniciar e pausar a contagem
-🔄 Retomar a contagem
-🏁 Marcar voltas (laps)
-🗑️ Zerar o cronômetro
-📋 Visualizar o histórico de voltas
-🖥️ Interface gráfica com Tkinter
-💻 Versão para terminal
-📂 Versões
-Interface gráfica
+---
 
-cronometro_gui.py
+## 🚀 Funcionalidades
 
-Versão com interface gráfica desenvolvida utilizando Tkinter.
+| Funcionalidade                  | Descrição                              |
+|--------------------------------|----------------------------------------|
+| ▶️ Iniciar / Pausar            | Controle total da contagem             |
+| 🔄 Retomar                     | Continua de onde parou                 |
+| 🏁 Marcar voltas (Laps)        | Registra tempos parciais               |
+| 🗑️ Zerar                      | Reinicia o cronômetro                  |
+| 📜 Histórico de voltas         | Visualiza todas as voltas marcadas     |
+| 🖥️ Interface Gráfica           | Versão com Tkinter                     |
+| 💻 Versão Terminal             | Execução direta no terminal            |
 
-Para executar:
-
-python cronometro_gui.py
-
-Também é possível executar o arquivo diretamente com duplo clique, dependendo da configuração do sistema.
-
-Terminal
-
-cronometro.py
-
-Versão executada diretamente pelo terminal.
-
-python cronometro.py
-
-Durante a execução:
-
-ENTER → marcar volta
-P → pausar/retomar
-Q → encerrar
-🛠️ Tecnologias
-Python 3.8+
-Tkinter
-Biblioteca padrão do Python
-Programação orientada a eventos
-📋 Requisitos
-Python 3.8 ou superior
-Não são necessárias dependências externas.
-
-O projeto utiliza apenas recursos da biblioteca padrão do Python.
-
-🚀 Objetivo
-
-Projeto desenvolvido com o objetivo de praticar conceitos de Python, interfaces gráficas, controle de tempo, eventos e interação com o usuário.
+---
