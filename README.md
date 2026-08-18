@@ -1,12 +1,5 @@
 # ⏱️ Cronômetro em Python
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Interface-Tkinter-green?style=for-the-badge)
-![Standard Library](https://img.shields.io/badge/Dependências-Apenas%20biblioteca%20padrão-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/Licença-MIT-yellow?style=for-the-badge)
-
 **Um cronômetro moderno e completo feito 100% em Python puro**  
 Sem dependências externas • Interface gráfica + versão terminal
 
